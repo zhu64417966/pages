@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## 技能展示
+- 熟练 JavaScript、Css、Html开发网页，并处理浏览器兼容性  
+- 掌握Vue、React库，熟练使用vue-router、react-router、vuex、redux
+- 熟练使用webpack、gulp等前端构建工具及打包、部署、上线流程
+- 熟练响应式布局、自适应布局
+- 熟练使用Echart 开发可视化图表
+- 熟悉微信小程序开发、微信公众号H5开发
+- 熟悉 NodeJs、 express框架的基本使用
+- 熟练Git、Gitlab等项目管理、协作工具的使用
+- 熟悉配置Nginx代理
 
-You can use the [editor on GitHub](https://github.com/zhu64417966/zxl.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 工作经历
+### 上海持悦网络科技有限公司（原樊登读书企业版） 		Web前端组长			          2016.12 - 至今
+工作职责：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1.负责一书一课项目Web前端开发工作，管理3名前端开发人员；
 
-### Markdown
+2.负责技术难题攻关，技术架构选型，抽取组件库，供团队使用；
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3.在公司创业之初加入到如今，负责的项目包含官网、B端管理系统、H5项目、第三方内容云对接、C端用户小程序等；
 
-```markdown
-Syntax highlighted code block
+4.使用Jira进行项目管理，使用git进行代码的迭代管理；
 
-# Header 1
-## Header 2
-### Header 3
+### 上海吆叭科技有限公司 							H5前端工程师				   2016.07 - 2016.11
+工作职责：主要负责电商项目的开发，包含商品管理后台和H5端商品展示，负责一部分的模块拆分。
 
-- Bulleted
-- List
+### 江苏优度软件有限公司						  	      网页制作 					   2014.10 - 2016.06
+工作职责：
+1.主要负责为各种中小型企业定制化官网；
+2.实现搭建和维护公司官网的PC和H5端；
+3.协助分销部门实现分销系统的UI搭建；
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhu64417966/zxl.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 自我评价
+工作认真仔细，勤奋好学，对技术有极大的热爱，认为IT行业是个终身学习的行业，在闲暇之余的学习，也同时促进了工作的效率。不断学习新技术，是为了解决日益升级的用户需求，提供更优的解决方案。对于技术难点的攻关，本人有非常强的能力和信心去解决，希望在工作中提高自己。
